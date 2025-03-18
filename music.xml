@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Bohemian Rhapsody</songTitle>
+        <artist>Queen</artist>
+        <debutYear>1975</debutYear>
+        <albums>
+            <album>A Night at the Opera</album>
+            <album>Greatest Hits</album>
+            <album>Classic Queen</album>
+        </albums>
+    </song>
+    <song id="2">
+        <songTitle>Hotel California</songTitle>
+        <artist>Eagles</artist>
+        <debutYear>1977</debutYear>
+        <albums>
+            <album>Hotel California</album>
+            <album>Their Greatest Hits</album>
+            <album>Selected Works</album>
+        </albums>
+    </song>
+    <song id="3">
+        <songTitle>Billie Jean</songTitle>
+        <artist>Michael Jackson</artist>
+        <debutYear>1983</debutYear>
+        <albums>
+            <album>Thriller</album>
+            <album>Number Ones</album>
+            <album>History</album>
+        </albums>
+    </song>
+    <song id="4">
+        <songTitle>Sweet Child O' Mine</songTitle>
+        <artist>Guns N' Roses</artist>
+        <debutYear>1987</debutYear>
+        <albums>
+            <album>Appetite for Destruction</album>
+            <album>Greatest Hits</album>
+            <album>Live Era '87-'93</album>
+        </albums>
+    </song>
+    <song id="5">
+        <songTitle>Smells Like Teen Spirit</songTitle>
+        <artist>Nirvana</artist>
+        <debutYear>1991</debutYear>
+        <albums>
+            <album>Nevermind</album>
+            <album>Greatest Hits</album>
+            <album>Icon</album>
+        </albums>
+    </song>
+</music>
